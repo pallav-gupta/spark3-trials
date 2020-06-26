@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: org.apache.arrow:arrow-vector:0.15.1">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.apache.arrow/arrow-vector/0.15.1/8b1e7a3bae0588e514eeb4e0c0eb412fbb8197b5/arrow-vector-0.15.1.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.apache.arrow/arrow-vector/0.15.1/c199baf19cfd169fa862db76ef28163349a02fa5/arrow-vector-0.15.1-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

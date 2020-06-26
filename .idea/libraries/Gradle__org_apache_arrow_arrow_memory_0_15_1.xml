@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: org.apache.arrow:arrow-memory:0.15.1">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.apache.arrow/arrow-memory/0.15.1/a4bab78e7691feac6c00fae66fa3021a17aec141/arrow-memory-0.15.1.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.apache.arrow/arrow-memory/0.15.1/699eb70c004e0a713f5e23c7f8257146f6064f2d/arrow-memory-0.15.1-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

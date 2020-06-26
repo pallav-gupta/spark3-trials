@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: org.apache.arrow:arrow-format:0.15.1">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.apache.arrow/arrow-format/0.15.1/2bb00d96f5f27cd508b92bd583fb3bd91e901685/arrow-format-0.15.1.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.apache.arrow/arrow-format/0.15.1/5cae093ffcbeba2668a9e0b86f068c88090d8841/arrow-format-0.15.1-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

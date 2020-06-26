@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: org.apache.xbean:xbean-asm7-shaded:4.15">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.apache.xbean/xbean-asm7-shaded/4.15/ab2dd0434e9a2cfef75c3d4ac9b02e5189f4887b/xbean-asm7-shaded-4.15.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.apache.xbean/xbean-asm7-shaded/4.15/4993bc087321c4a43c55a292b826e4e43a13356f/xbean-asm7-shaded-4.15-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

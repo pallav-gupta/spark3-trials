@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: org.glassfish.jersey.core:jersey-common:2.30">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.glassfish.jersey.core/jersey-common/2.30/74ce040a9c83036be2d43ea093e51f3c6876848c/jersey-common-2.30.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.glassfish.jersey.core/jersey-common/2.30/e164af2b4c8028b1834a9279dd60ffce6278b32e/jersey-common-2.30-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
